@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "salary": "R500000",
+    "monthlyTax": "R280263"
+  },
+  {
+    "id": 2,
+    "name": "James",
+    "salary": "R250000",
+    "monthlyTax": "R100253"
+  },
+  {
+    "id": 3,
+    "name": "Matthew",
+    "salary": "R58000",
+    "monthlyTax": "R47560"
+  },
+  {
+    "id": 4,
+    "name": "Shaun",
+    "salary": "R20000",
+    "monthlyTax": "R16400"
+  }
+]
